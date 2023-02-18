@@ -1,0 +1,14 @@
+ALGORITMO COTIZACION
+1.	Solicitar el Nombre del asegurado
+2.	Ingresar su edad   
+3.	Comprobar si está casado
+a.	Si está casado ingresar la edad de su conyugue
+4.	Comprobar si tiene hijos
+a.	Si tiene hijos ingresar la cantidad
+5.	Si el asegurado es mayor de edad Se aplica el recargo correspondiente
+6.	 Si tiene esposa
+a.	Se aplica el recargo a su conyugue según su edad
+7.	Si tiene hijos
+a.	Se aplica el recargo correspondiente a cada hijo
+8.	Se muestran el recargo y el precio total para el asegurado y su familia en caso de tener
+

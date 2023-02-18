@@ -1,0 +1,2 @@
+DESCRIPCION DEL PROBLEMA
+La empresa de seguros TK-U actualmente no es capaz de realizar todas las cotizaciones que se les presentan día a día debido a que no cuentan con un sistema que haga este proceso de forma automática. Eso causa que se demoren de más y no se den abasto para procesar todas las cotizaciones a tiempo lo que puede llevarles a perder clientes potenciales
